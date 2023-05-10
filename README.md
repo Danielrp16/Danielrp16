@@ -1,0 +1,4 @@
+- 👋 Olá, me chamo Daniel
+- 👀 Estou interessado em estágios na área da tecnologia e atualmente curso ADS
+- 🌱 Aprendendo HTML, CSS, JavaScript
+- 📫 Pode me chamar neste número (51)993507126
