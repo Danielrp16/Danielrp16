@@ -1,8 +1,3 @@
-- 👋 Olá, me chamo Daniel
-- 👀 Estou interessado em estágios na área da tecnologia e atualmente curso ADS
-- 🌱 Iniciante em HTML, CSS, JavaScript
-- 📫 Pode me chamar neste número (51)993507126
-
  <div>
    <a href="https://github.com/Danielrp16">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danielrp16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
