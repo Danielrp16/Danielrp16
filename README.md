@@ -18,4 +18,6 @@
   
   <a href="https://instagram.com/rdanielz__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daniel-rocha2907" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ ![Snake animation] (https://github.com/Danielrp16/Danielrp16/blob/output/github-contribuition-griid-snake.svg)
  </div>
