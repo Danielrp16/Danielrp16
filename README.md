@@ -1,7 +1,18 @@
 <div>
-  <a href="https://github.com/Danielrp16">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danielrp16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielrp16&layout=compact&langs_count=6&theme=tokyonight"/>
+# Olá! Eu sou Daniel Rocha 👋
+
+🎯 Em transição para a área de tecnologia  
+💻 Interesse em suporte técnico, operações de TI e desenvolvimento  
+📚 Atualmente estudando Análise e Desenvolvimento de Sistemas  
+🚀 Aprendendo lógica de programação, GitHub e tecnologias web
+
+## Tecnologias e Ferramentas
+- Microsoft 365
+- Windows
+- ERP
+- Git/GitHub
+- HTML/CSS
+
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
